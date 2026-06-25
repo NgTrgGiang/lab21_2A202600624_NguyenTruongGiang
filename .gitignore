@@ -1,3 +1,13 @@
+# ===== Lab21 — adapter weights & training checkpoints =====
+# Option B: adapters được push lên HuggingFace Hub, KHÔNG commit vào repo (xem LINKS.md)
+r8/
+r16/
+r64/
+# bản notebook gốc (có outputs) — giữ local, bài nộp dùng notebook.ipynb ở root
+notebooks/
+# script tiện ích push HF — giữ local
+push_hf.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

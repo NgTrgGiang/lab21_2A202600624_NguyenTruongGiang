@@ -1,5 +1,17 @@
 # Báo cáo Lab 21: LoRA/QLoRA Fine-tuning
 
+**Học viên:** Nguyễn Trường Giang — **MSSV:** 2A202600624
+**Ngày nộp:** 2026-06-25
+**Submission option:** B (HuggingFace Hub)
+
+> 🤗 **Adapters & links:** xem [LINKS.md](LINKS.md). Adapter weights được host trên HuggingFace Hub (không kèm trong bài nộp — Option B).
+>
+> | Rank | HF Hub adapter |
+> |-----:|----------------|
+> | r=8  | https://huggingface.co/NgTruongGiang/lab21-r8  |
+> | r=16 | https://huggingface.co/NgTruongGiang/lab21-r16 |
+> | r=64 | https://huggingface.co/NgTruongGiang/lab21-r64 |
+
 ## 1. Kết quả thực nghiệm
 
 Dưới đây là bảng tổng hợp các chỉ số quan trọng:
